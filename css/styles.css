@@ -1,0 +1,41 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: green;
+}
+
+h3 {
+  color: green;
+}
+
+
+/*   Class oluşturarak sadece o nesneye özgü değişiklik yapabiliriz....
+
+.fatih {
+  background-color: red;
+}
+
+*/
+
+/*
+
+#heading {
+  color: blue;
+}
+
+*/
